@@ -5,7 +5,10 @@
 #include <ctime>
 #include <cstdlib>
 using namespace std;
+
+
 int main() {
+ 
 char firstInitial, middleInitial, lastInitial, position;
 string firstname, middlename, lastname, fullname;
 string national_id;
